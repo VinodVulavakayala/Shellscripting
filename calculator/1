@@ -1,0 +1,7 @@
+#!/bin/bash
+#Shell script for arthimatic operation
+echo -e "\t\tWelcome to arthimatic calculator"
+echo -e "\t\t================================"
+echo -e "\t\t \n1.Addition\n2.Sub\n3.Mul\n4.Divi\n5.Remainder"
+read  -p "Please Select your operation from above menu with 1-5 numbers: " user_option
+echo $user_option

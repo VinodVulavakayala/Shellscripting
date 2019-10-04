@@ -1,0 +1,10 @@
+#!/bin/bash
+
+for x in 1 .. 5
+do
+
+echo "this is vinod $x"
+
+done
+
+
